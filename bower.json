@@ -1,0 +1,29 @@
+{
+  "name": "PartyFinder",
+  "version": "0.0.0",
+  "description": "Party Finder",
+  "main": "index.html",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "Leage",
+    "of",
+    "Legends",
+    "DOTA"
+  ],
+  "authors": [
+    "SerDimoa"
+  ],
+  "license": "MIT",
+  "homepage": "http://ferateam.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
